@@ -48,7 +48,7 @@
     "path-to-regexp": "^1.2.1",
     "semver": "^5.1.0",
     "should": "~11.1.1",
-    "webfontloader": "^1.6.24"
+    "webfontloader": "^1.6.27"
   },
   "jshintConfig": {
     "camelcase": true,
