@@ -47,7 +47,7 @@
     "npm-check-updates": "^2.6.3",
     "path-to-regexp": "^1.2.1",
     "semver": "^5.1.0",
-    "should": "~11.1.1",
+    "should": "~13.0.0",
     "webfontloader": "^1.6.24"
   },
   "jshintConfig": {
