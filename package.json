@@ -37,7 +37,7 @@
     "fs-extra": "~2.1.0",
     "lodash": "~4.17.0",
     "markdown-it": "^8.0.1",
-    "nomnom": "~1.8.1",
+    "nomnom": "~2.0.0",
     "winston": "~2.3.0"
   },
   "devDependencies": {
