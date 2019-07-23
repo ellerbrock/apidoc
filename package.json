@@ -46,7 +46,7 @@
     "mocha": "~3.1.2",
     "npm-check-updates": "^2.6.3",
     "path-to-regexp": "^1.2.1",
-    "semver": "^5.1.0",
+    "semver": "^6.3.0",
     "should": "~11.1.1",
     "webfontloader": "^1.6.24"
   },
