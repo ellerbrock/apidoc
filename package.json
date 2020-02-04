@@ -33,7 +33,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "apidoc-core": "~0.8.0",
+    "apidoc-core": "~0.11.1",
     "fs-extra": "~2.1.0",
     "lodash": "~4.17.0",
     "markdown-it": "^8.0.1",
